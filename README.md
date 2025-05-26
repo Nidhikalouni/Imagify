@@ -3,9 +3,6 @@
 **Imagify** is an AI-powered image generation web app built with the **MERN stack**. It allows users to generate high-quality images using text prompts, powered by the **Clipdrop API**. Imagify features secure authentication, a responsive UI, and smooth client-server interaction.
 
 🔗 **Live Link:** https://imagify-client-seven.vercel.app/
-
----
-
 ## 💡 Features
 
 - Text-to-image generation using Clipdrop API
@@ -15,7 +12,6 @@
 - Responsive design for all screen sizes
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** ReactJS, Tailwind CSS
@@ -26,17 +22,16 @@
 - **Hosting:** Vercel (frontend), Render (backend)
 
 ---
-
-## 🔐 Environment Variables
-
+**##🔐 Environment Variables**
 Create a `.env` file in the server directory with:
 
 ```env
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 CLIPDROP_API_KEY=your_api_key
+--
+**🚀 Getting Started**
 
-🚀 Getting Started
 Clone the repository:
 
 bash
@@ -47,3 +42,4 @@ Install frontend and backend dependencies.
 
 Set up environment variables and run both client and server.
 Made with ❤️ by Nidhi Kalouni
+

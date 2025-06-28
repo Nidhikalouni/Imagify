@@ -31,14 +31,8 @@
 
 ---
 ## 📂 Project Structure
-Imagify/
-├── client/ # React frontend
-├── server/ # Node/Express backend
-│ ├── routes/
-│ ├── models/
-│ ├── controllers/
-│ ├── config/
-│ ├── ping.js # Optional ping script (for local testing)
+![image](https://github.com/user-attachments/assets/bf99cf1c-e78f-408e-a02a-6130f0d1892c)
+
 
 **##🔐 Environment Variables**
 Create a `.env` file in the `server/` directory with the following:

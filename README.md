@@ -3,7 +3,7 @@
 **Imagify** is an AI-powered image generation web app built with the **MERN stack**. It allows users to generate high-quality images using text prompts, powered by the **Clipdrop API**. Imagify features secure authentication, a responsive UI, and smooth client-server interaction.
 
 🔗 **Live Link:** 
-- 🌐 Frontend: https://imagify-client-seven.vercel.app
+- 🌐 Frontend: https://imagify-xlua.vercel.app
 - 🛠️ Backend: https://imagify-2ttj.onrender.com
 - 📶 Uptime Monitoring: https://stats.uptimerobot.com/CpkJ396ILR
   

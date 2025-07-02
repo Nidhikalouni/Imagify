@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import {Routes,Route} from 'react-router-dom'
-  import { ToastContainer } from 'react-toastify';
+ import { ToastContainer } from 'react-toastify';
 import Home from './Pages/Home'
 import Result from './Pages/Result'
 import BuyCredit from './Pages/BuyCredit'
